@@ -1,6 +1,7 @@
-![Green Futuristic Technology LinkedIn Banner](https://github.com/AlecKap/AlecKap/assets/120225785/6c2596e2-1959-4e90-b0a6-48eba63d92a3)
+![Green Futuristic Technology LinkedIn Banner](https://github.com/AlecKap/AlecKap/assets/120225785/8f849f66-bd99-4a5d-9ba7-8f8a9e9f77ed)
 
 <div id="header" align="center">
+
   <div id="badges">
     <a href="https://www.linkedin.com/in/alec-kapicak/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
