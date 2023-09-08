@@ -21,6 +21,10 @@
 
 - :telescope: I am currently looking for work as a software engineer, lets connect!
 
+- 🌎  I thrive in high-stakes, team-oriented environments by fostering positive team dynamics through exceptional communication and leadership. Driven by a deep-rooted belief in the potential of technology as a force for good, I am committed to working on projects that have a positive social impact and contribute meaningfully to society. I am determined to be part of an environment that encourages a growth mindset and facilitates a culture of empathy and inclusivity, ensuring that the technology we create is a driving force for human potential and social progress.
+
+Please feel free to reach out to me at amkap12@gmail.com and let's discuss exciting new projects or how I can contribute to your company and community goals!
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AlecKapicak-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alec-kapicak/)
 
 ---
