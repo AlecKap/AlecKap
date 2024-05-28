@@ -19,7 +19,7 @@
 ### :man_technologist: About Me :
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a software engineer residing in Colorado.
 
-- :telescope: I am currently working at the Turing School of Software and Design as a Software Engineering Intern, while also searching for part-time, contract, or full-time work as a software engineer. Lets connect!
+- :telescope: I am currently working at the Turing School of Software and Design as a Junior Software Engineer, while also searching for other part-time, contract, or full-time work as a software engineer. Lets connect!
 
 - 🌎  I thrive in high-stakes, team-oriented environments by fostering positive team dynamics through exceptional communication and leadership. Driven by a deep-rooted belief in the potential of technology as a force for good, I am committed to working on projects that have a positive social impact and contribute meaningfully to society. I am determined to be part of an environment that encourages a growth mindset and facilitates a culture of empathy and inclusivity, ensuring that the technology we create is a driving force for human potential and social progress.
 
