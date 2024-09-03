@@ -1,29 +1,29 @@
 ![Green Futuristic Technology LinkedIn Banner](https://github.com/AlecKap/AlecKap/assets/120225785/8f849f66-bd99-4a5d-9ba7-8f8a9e9f77ed)
 
 <div id="header" align="center">
-
+  <img src="https://komarev.com/ghpvc/?username=aleckap&style=flat-square&color=blue" alt=""/>
+  <br>
+  <br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/alec-kapicak/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=aleckap&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hi there!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <br>
+  <div>
+    <a href="https://aleckap.github.io/alec_portfolio/"> Checkout my resume here!</a>
+  </div>
 </div>
 
 ---
 
 ### :man_technologist: About Me :
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a software engineer residing in Colorado.
 
-- :telescope: I am currently working at the Turing School of Software and Design as a Junior Software Engineer, while also searching for other part-time, contract, or full-time opportunities as a software engineer. Lets connect!
+My name is Alec Kapicak! Prior to pursuing a career in software engineering, I spent nearly a decade working in emergency medicine and medical consultation for C-suite executives and celebrities. While working in emergency medicine I also attended school and graduated with a degree in philosophy. This is actually where I was first exposed to software engineering.
 
-- 🌎  I thrive in high-stakes, team-oriented environments by fostering positive team dynamics through exceptional communication and leadership. Driven by a deep-rooted belief in the potential of technology as a force for good, I am committed to working on projects that have a positive social impact and contribute meaningfully to society. I am determined to be part of an environment that encourages a growth mindset and facilitates a culture of empathy and inclusivity, ensuring that the technology we create is a driving force for human potential and social progress.
+After graduating I knew I wanted to take the skills and problem solving methodologies I had developed studying philosophy and use them to pursue a life as a software engineer! I ended up attending the Turing School of Software and Design, an ACCET federally accredited seven month intensive software engineering program.
 
-- 📫 Please feel free to reach out to me at amkap12@gmail.com or send me a message on [![Linkedin Badge](https://img.shields.io/badge/-AlecKapicak-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alec-kapicak/) and let's discuss exciting new projects or how I can contribute to your company and community goals!
+I value sustainability, intellectual challenges, collaboration, and leveraging my analytic problem solving skills to deliver efficient technical solutions that are clean, maintainable, and impactful. I thrive in high-stakes, team-oriented environments by fostering positive team dynamics through exceptional communication and leadership. Please feel free to reach out to me at amkap12@gmail.com and let's discuss exciting new projects or how I can contribute to your company and community goals!
 
 ---
 
@@ -42,16 +42,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
 
-### Currently Learning :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
-</div>
-
----
-
+<!--
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aleckap&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleckap&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!--
 **AlecKap/AlecKap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
