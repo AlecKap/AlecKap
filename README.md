@@ -17,7 +17,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### 🔬 About Me :
 
 My name is Alec Kapicak! Prior to pursuing a career in software engineering, I spent nearly a decade working in emergency medicine and medical consultation for C-suite executives and celebrities. While working in emergency medicine I also attended school and graduated with a degree in philosophy. This is actually where I was first exposed to software engineering.
 
