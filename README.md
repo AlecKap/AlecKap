@@ -19,7 +19,9 @@
 
 ### 🔬 About Me :
 
-My name is Alec Kapicak! Prior to pursuing a career in software engineering, I spent nearly a decade working in emergency medicine and medical consultation for C-suite executives and celebrities. While working in emergency medicine I also attended school and graduated with a degree in philosophy. This is actually where I was first exposed to software engineering.
+My name is Alec Kapicak! I am currently working as a software developer at the Turing School of Software and Design! 
+
+Prior to pursuing a career in software engineering, I spent nearly a decade working in emergency medicine and medical consultation for C-suite executives and celebrities. While working in emergency medicine I also attended school and graduated with a degree in philosophy. This is actually where I was first exposed to software engineering.
 
 After graduating I knew I wanted to take the skills and problem solving methodologies I had developed studying philosophy and use them to pursue a life as a software engineer! I ended up attending the Turing School of Software and Design, an ACCET federally accredited seven month intensive software engineering program.
 
