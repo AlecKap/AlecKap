@@ -17,7 +17,7 @@
 
 ---
 
-### 🔬 About Me :
+### About Me :
 
 My name is Alec Kapicak! I am currently working as a Software Engineer and Lead mod0 Instructor at the Turing School of Software and Design! 
 
@@ -29,7 +29,7 @@ I value sustainability, intellectual challenges, collaboration, and leveraging m
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" alt="Rails" width="60" height="60"/>&nbsp;
