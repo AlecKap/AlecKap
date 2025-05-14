@@ -21,11 +21,11 @@
 
 My name is Alec Kapicak! I am currently working as a Software Engineer and Lead mod0 Instructor at the Turing School of Software and Design! 
 
-Prior to pursuing a career in software engineering, I spent nearly a decade working in emergency medicine and medical consultation for C-suite executives and celebrities. While working in emergency medicine, I also attended school and graduated with a degree in philosophy. This is where I was first exposed to software engineering.
+Prior to pursuing a career in software engineering, I spent nearly a decade working in emergency medicine and doing medical consultation for C-suite executives and A-list celebrities. During that time, I also attended school and graduated with a degree in philosophy.
 
-After graduating I knew I wanted to take the skills and problem solving methodologies I had developed studying philosophy and use them to pursue a life as a software engineer! I ended up attending the Turing School of Software and Design, an ACCET federally accredited seven month intensive software engineering program.
+I knew I wanted to take the skills and experience I had developed studying philosophy and working in medicine and use them to pursue a life as a software engineer! I ended up attending and graduating from the Turing School of Software and Design, an ACCET federally accredited seven month intensive software engineering program.
 
-I value sustainability, intellectual challenges, collaboration, and leveraging my analytic problem solving skills to deliver efficient technical solutions that are clean, maintainable, and impactful. I thrive in high-stakes, team-oriented environments by fostering positive team dynamics through exceptional communication and leadership. Please feel free to reach out to me at amkap12@gmail.com and let's discuss exciting new projects or how I can contribute to your company and community goals!
+I value clean dry code, intellectual challenges, collaboration, and leveraging my analytic problem solving skills to deliver efficient technical solutions that are clean, maintainable, and impactful. I thrive in high-stakes, team-oriented environments by fostering positive team dynamics through exceptional communication and leadership. Please feel free to reach out to me at amkap12@gmail.com and let's discuss exciting new projects you are working on or how I can contribute to your company and community goals!
 
 ---
 
